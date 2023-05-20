@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 😎 행복을 찾아서...
 
-  ![Alt text](https://i.maniadb.com/image.php?path=/images/album/103/103627_2_f.jpg)
+  ![Alt text](/images/18cruck.png)
