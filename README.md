@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 - 😎 행복을 찾아서...
-
-  ![Alt text](/images/18cruck.png)
